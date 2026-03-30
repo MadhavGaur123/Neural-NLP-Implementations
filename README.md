@@ -17,17 +17,6 @@ This repository is designed to present the work as a polished NLP engineering po
 
 ---
 
-## Project Philosophy
-
-Instead of presenting these implementations as coursework-style submissions, this repository organizes them as a compact collection of **independent NLP modeling projects**. The projects are related by theme and methodology, but they are **not a single jointly trained pipeline**. Each module is meant to stand on its own and demonstrate a distinct modeling capability.
-
-That framing is intentional:
-- it is more accurate,
-- it is more professional,
-- and it makes the repository easier for recruiters, researchers, and engineers to navigate.
-
----
-
 ## Repository Structure
 
 ```text
